@@ -1,0 +1,338 @@
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "26",
+  "email": "rcagartala@ignou.ac.in",
+  "name": "RC: AGARTALA",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR, IGNOU REGIONAL CENTRE, M.B.B. COLLEGE COMPOUND, P.O. AGARTALA COLLEGE, AGARTALA – 799 004, TRIPURA"
+}
+
+###
+
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "09",
+  "email": "rcahmedbad@ignou.ac.in",
+  "name": "RC: AHMEDABAD",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nOPP. NIRMA INSTT OF TECHNOLOGY\n\nSARKHEJ-GANDHINAGAR HIGHWAY\n\nCHHARODI\n\nAHMEDABAD – 382 481\n\nGUJARAT"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "19",
+  "email": "rcaizwal@ignou.ac.in",
+  "name": "RC: AIZAWL",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nLAL BULAIA BUILDING\n\nM.G. ROAD\n\nKHATLA(NEAR CENTRAL YMCA OFF)\n\nAIZWAL – 796 001\n\nMIZORAM"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "13",
+  "email": "rcbangalore@ignou.ac.in",
+  "name": "RC: BANGALORE",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nNSSS KALYANA KENDRA\n\n293, 39TH CROSS, 8TH BLOCK\n\nJAYANAGAR\n\nBANGALORE - 560 070\n\nKARNATAKA"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "15",
+  "email": "rcbhopal@ignou.ac.in",
+  "name": "RC: BHOPAL",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nSANCHI COMPLEX, 3RD FLOOR\n\nOPP. BOARD OF SECONDARY EDN.\n\nSHIVAJI NAGAR\n\nBHOPAL - 462 016\n\nMADHYA PRADESH"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "82",
+  "email": "rcbhagalpur@ignou.ac.in",
+  "name": "RC: BHAGALPUR",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nREGIONAL DIRECTOR (I/C)\n\nIGNOU REGIONAL CENTRE\n\nSUMAN PLAZA TILKAMANJHI\n\nCENTRAL JAIL ROAD\n\nBHAGALPUR 8120071"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "25",
+  "email": "rcchennai@ignou.ac.in",
+  "name": "RC: CHENNAI",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\n3 RD FLOOR G R COMPLEX\n\n407- 408 ,ANNA SALAI NANDANAM\n\nCHENNAI - 600  035\n\nTAMILNADU"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "06",
+  "email": "rcchandigarh@ignou.ac.in",
+  "name": "RC: CHANDIGARH",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nSCO 208\n\nSECTOR 14\n\nPANCHKULA - 134 109\n\nHAYRANA"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "14",
+  "email": "rccochin@ignou.ac.in",
+  "name": "RC: COCHIN",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nKALOOR\n\nCOCHIN - 682 017\n\nKERALA"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "46",
+  "email": "rcdarbhanga@ignou.ac.in",
+  "name": "RC: DARBHANGA",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nLALIT NARAYAN MITHLA UNIV.CMPS\n\nKAMESHWARANAGAR,\n\nNEAR CENTRAL BANK\n\nDARBHANGA - 846 004\n\nBIHAR"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "87",
+  "email": "rcdeoghar@ignou.ac.in",
+  "name": "RC: DEOGHAR",
+  "type": "RC",
+  "rc_code": "",
+  "address": "\t\nREGIONAL DIRETCOR\n\nIGNOU REGIONAL CENTRE\n\nMANDAKINI SADAN,BASUWDIH , ROHINI ROAD,JASIDIH\n\nDEOGHAR\n\nJHARKHAND 814142"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "31",
+  "email": "rcdehradun@ignou.ac.in",
+  "name": "RC: DEHRADUN",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nNANOOR KHERA, TAPOVAN\n\nRAIPUR ROAD\n\nDEHRADUN - 248 001\n\nUTTARANCHAL"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "49",
+  "email": "rcmumbai@ignou.ac.in",
+  "name": "RC: MUMBAI",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nOM LEVA VIKAS NIKETAN\n\nNANEPADA ROAD,MULUND (E)\n\nMUMBAI – 400 081"
+}
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "26",
+  "email": "rcagartala@ignou.ac.in",
+  "name": "RC: AGARTALA",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR, IGNOU REGIONAL CENTRE, M.B.B. COLLEGE COMPOUND, P.O. AGARTALA COLLEGE, AGARTALA – 799 004, TRIPURA"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "39",
+  "email": "rcnoida@ignou.ac.in",
+  "name": "RC: NOIDA",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nC - 53 SECTOR 62\n\nINSTITUTIONAL AREA\n\nNOIDA  - 201 305\n\nUTTAR PRADESH"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "36",
+  "email": "rcnagpur@ignou.ac.in",
+  "name": "RC: NAGPUR",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nGYAN VATIKA\n\n14 HINDUSTAN COLONY\n\nAMARAVATI ROAD\n\nNAGPUR  440 033"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "08",
+  "email": "rcpanaji@ignou.ac.in",
+  "name": "RC: PANAJI",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nBEHIND CHODANKAR HOSPITAL\n\nNEAR P&T STAFF QUARTERS\n\nALTO PORVORIM\n\nPOVORIM – 403 521\n\nGOA"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "05",
+  "email": "rcpatna@ignou.ac.in",
+  "name": "RC: PATNA",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\n2ND FLOOR, BISCOMAUN TOWER\n\nWEST GANDHI MAIDAN,\n\nPATNA - 800 001\n\nBIHAR"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "26",
+  "email": "rcagartala@ignou.ac.in",
+  "name": "RC: AGARTALA",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR, IGNOU REGIONAL CENTRE, M.B.B. COLLEGE COMPOUND, P.O. AGARTALA COLLEGE, AGARTALA – 799 004, TRIPURA"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "02",
+  "email": "rcportblair@ignou.ac.in",
+  "name": "RC: PORT BLAIR",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nJNRM CAMPUS\n\nPORT BLAIR – 744 104\n\nANDAMAN & NICOBAR ISLANDS"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "16",
+  "email": "rcpune@ignou.ac.in",
+  "name": "RC: PUNE",
+  "type": "RC",
+  "rc_code": "",
+  "address": "\t\nREGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\n1ST FLOOR, MSFC BUILDING\n\n270, SENAPATI BAPAT ROAD\n\nPUNE - 411 016\n\nMAHARASHTRA"
+}
+
+###
+
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "35",
+  "email": "rcraipur@ignou.ac.in",
+  "name": "RC: RAIPUR",
+  "type": "RC",
+  "rc_code": "",
+  "address": "\t\nREGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nREST HOUSE & E.M. OFFICE HALL\n\nSECTOR - 1\n\nSHANKAR NAGAR\n\nRAIPUR – 492 007\n\nCHATTISGARH"
+}
+
+###
+
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "42",
+  "email": "rcrajkot@ignou.ac.in",
+  "name": "RC: RAJKOT",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\nSAURASHTRA UNIVERSITY CAMPUS\n\nRAJKOT – 360 005\n\nGUJARAT"
+}
+###
+
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "32",
+  "email": "rcranchi@ignou.ac.in",
+  "name": "RC: RANCHI",
+  "type": "RC",
+  "rc_code": "",
+  "address": "REGIONAL DIRECTOR\n\nIGNOU REGIONAL CENTRE\n\n457/A, ASHOK NAGAR\n\nRANCHI – 834 022\n\nJHARKHAND"
+}
+
+###

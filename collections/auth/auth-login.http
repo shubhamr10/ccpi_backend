@@ -1,0 +1,47 @@
+POST http://localhost:3000/api/auth
+Content-Type: application/json
+
+{
+  "email": "owner@acq.io",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/auth
+Content-Type: application/json
+
+{
+  "email": "admin@acq.io",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/auth
+Content-Type: application/json
+
+{
+  "email": "manager@acq.io",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/auth
+Content-Type: application/json
+
+{
+  "email": "teacher@acq.io",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/auth
+Content-Type: application/json
+
+{
+  "email": "student@acq.io",
+  "password": "Abcd@123"
+}

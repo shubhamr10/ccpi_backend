@@ -1,0 +1,47 @@
+POST http://localhost:3000/api/roles/create-role
+Content-Type: application/json
+
+{
+  "role_name": "Administrator",
+  "role_permission": []
+}
+
+###
+POST http://localhost:3000/api/roles/create-role
+Content-Type: application/json
+
+{
+  "role_name": "Manager",
+  "role_permission": []
+}
+
+###
+
+POST http://localhost:3000/api/roles/create-role
+Content-Type: application/json
+
+{
+  "role_name": "Teacher",
+  "role_permission": []
+}
+
+###
+
+POST http://localhost:3000/api/roles/create-role
+Content-Type: application/json
+
+{
+  "role_name": "Owner",
+  "role_permission": []
+}
+
+###
+POST http://localhost:3000/api/roles/create-role
+Content-Type: application/json
+
+{
+  "role_name": "Student",
+  "role_permission": []
+}
+
+###

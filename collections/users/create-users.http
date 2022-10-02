@@ -1,0 +1,59 @@
+POST http://localhost:3000/api/users/create-user
+Content-Type: application/json
+
+{
+  "name": "Owner at Ignou",
+  "email": "owner@acq.io",
+  "role": "63384059a63661c2fe1c478f",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/users/create-user
+Content-Type: application/json
+
+{
+  "name": "Administrator at IGNOU",
+  "email": "admin@acq.io",
+  "role": "63384050a63661c2fe1c4784",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/users/create-user
+Content-Type: application/json
+
+{
+  "name": "Manager at IGNOU",
+  "email": "manager@acq.io",
+  "role": "63384059a63661c2fe1c4789",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/users/create-user
+Content-Type: application/json
+
+{
+  "name": "Teacher at IGNOU",
+  "email": "teacher@acq.io",
+  "role": "63384059a63661c2fe1c478c",
+  "password": "Abcd@123"
+}
+
+###
+
+POST http://localhost:3000/api/users/create-user
+Content-Type: application/json
+
+{
+  "name": "Student at IGNOU",
+  "email": "student@acq.io",
+  "role": "63384059a63661c2fe1c4792",
+  "password": "Abcd@123"
+}
+
+###

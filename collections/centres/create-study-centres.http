@@ -1,0 +1,294 @@
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "2600P",
+  "email": "rcl2600p@gmail.com",
+  "name": "M.B.B. College Campus,",
+  "type": "SC",
+  "rc_code": "26",
+  "address": "Regional Computer Lab,\nIGNOU Regional Centre\nAgartala, M.B.B. College\nCampus, Agartala, District :\nWest, Tripura – 799 004"
+}
+
+###
+
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "2601",
+  "email": "arobindoyp@gmail.com",
+  "name": "Tripura University",
+  "type": "SC",
+  "rc_code": "26",
+  "address": "IGNOU Study Centre ,\nTripura University,\nAcademic Building–2,\nP.O. Surjamaninagar,\nDistrict : West Tripura- 799 022,"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "2602",
+  "email": "ignousc2602@rediffmail.com",
+  "name": "Govt. Degree College",
+  "type": "SC",
+  "rc_code": "26",
+  "address": "IGNOU Study Centre,\nGovt. Degree College,\nP.O. Dharmanagar,\nNorth Tripura – 799 250"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "0901R",
+  "email": "ignou0910Rdummy@ignou.ac.in",
+  "name": "L.D. Arts College",
+  "type": "SC",
+  "rc_code": "09",
+  "address": "L.D. Arts College, Navrangpura,\nAhmedabad- 380009"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "0902R",
+  "email": "ignou0902Rdummy@ignou.ac.in",
+  "name": "General Education Building",
+  "type": "SC",
+  "rc_code": "09",
+  "address": "General Education Building, MSU,\nVadodara- 390002"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1901",
+  "email": "igsc1901@gmail.com",
+  "name": "Govt Aizawl College",
+  "type": "SC",
+  "rc_code": "19",
+  "address": "Govt Aizawl College\nSikulpuikawn, Aizawl, Mizoram"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1902",
+  "email": "igsc1902@gmail.com",
+  "name": "Lunglei Govt. College",
+  "type": "SC",
+  "rc_code": "19",
+  "address": "Lunglei Govt. College\nLunglei, Mizoram,"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1903",
+  "email": "igsc1903@gmail.com",
+  "name": "Govt. Kolasib College",
+  "type": "SC",
+  "rc_code": "19",
+  "address": "Govt. Kolasib College\nVenglai, Kolasib, Mizoram,\n03837 – 221397(O)"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1301",
+  "email": "ignousc1301@gmail.com,",
+  "name": "BES COLLEGE, BANGALORE",
+  "type": "SC",
+  "rc_code": "13",
+  "address": "Study Centre (SC), BES College of Arts & Science\nJayanagar 4th`T’ Blk, Bangalore 560 011"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1302",
+  "email": "ignousc1302@gmail.com",
+  "name": "2 1302 ST. ALOYSIUS COLLEGE, M'LORE",
+  "type": "SC",
+  "rc_code": "13",
+  "address": "IGNOU, SC St. Aloysius College, Kodial bail\nMangalore-575 003"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1305",
+  "email": "mysoreignou@gmail.com",
+  "name": "VIDYAVARDHAKA COLL,MYSORE",
+  "type": "SC",
+  "rc_code": "13",
+  "address": "IGNOU Study Centre, Vidya-vardhaka First Grade\nCollege, Seshadri Iyer Road, Mysore 570 021."
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1500R",
+  "email": "ignousc1500@ignou.ac.in",
+  "name": "IGNOU Study Center",
+  "type": "SC",
+  "rc_code": "15",
+  "address": "IGNOU Study Centre\n12, Arera Hills,\nBhopal – 462011, Madhya Pradesh"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1501R",
+  "email": "ignouys1501@gmail.com",
+  "name": "Motilal Vigyan Mahavidyalaya",
+  "type": "SC",
+  "rc_code": "15",
+  "address": "Motilal Vigyan Mahavidyalaya\nNear Old Vidhan Sabha Bhawan, Bhopal\n– 462008, Madhya Pradesh"
+}
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "1504R",
+  "email": "ignou2021@gmail.com",
+  "name": "Jiwaji University",
+  "type": "SC",
+  "rc_code": "15",
+  "address": "School of Studies in Physics,\nJiwaji University\nGwalior – 474011, Madhya Pradesh"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "82001D",
+  "email": "banka-dj@rediffmail.com",
+  "name": "District Jail Banka",
+  "type": "SC",
+  "rc_code": "82",
+  "address": "IGNOU, Special Study Centre\nDistrict Jail Banka\nBanka – 813102"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "82002",
+  "email": "ignoulsc82002@gmail.com",
+  "name": "DNS College",
+  "type": "SC",
+  "rc_code": "82",
+  "address": "IGNOU Study Centre\nDeep Narayan Singh College,\nBhusia, Rajoun\nBanka – 813107"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "82004D",
+  "email": "scj-bhagalpur@rediffmail.com",
+  "name": "Special Central\nJail",
+  "type": "SC",
+  "rc_code": "82",
+  "address": "IGNOU, Special Study Centre\nSpecial Central Jail\nBhagalpur – 812001"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "2501",
+  "email": "ignou2501@gmail.com",
+  "name": "DDGD Vaishnav College",
+  "type": "SC",
+  "rc_code": "25",
+  "address": "Arumbakkam , Chennai - 600 106.\nTamil Nadu"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "2508",
+  "email": "ignou2508@gmail.com",
+  "name": "A.V.C.College",
+  "type": "SC",
+  "rc_code": "25",
+  "address": "IGNOU Study Centre A.V.C.College,\nMayiladuthurai, Nagapattinam Dt - 609 305.\nTamil Nadu.\n04364-229225"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "0600",
+  "email": "rcchandigarh@ignou.ac.in",
+  "name": "IGNOU Study Centre at\nRegional Centre",
+  "type": "SC",
+  "rc_code": "06",
+  "address": "IGNOU Study Centre at\nRegional Centre,\nPlot No. 345, Phase-2,\nPanchkula – 134113"
+}
+
+###
+POST http://localhost:3000/api/centres
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "code": "0601",
+  "email": "ignou0601s@gmail.com",
+  "name": " Panjab University",
+  "type": "SC",
+  "rc_code": "06",
+  "address": "IGNOU Study Centre,\nUSOL, Panjab University,\nChandigarh – 160014 "
+}
+
+###
