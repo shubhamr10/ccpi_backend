@@ -25,6 +25,10 @@ const profileSchema = new mongoose.Schema({
         type:String,
         ref:'subject'
     }],
+    namespaces:[{
+        type:String,
+        ref:'namespace'
+    }],
     archived:{
         type:Boolean,
         required:true,

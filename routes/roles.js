@@ -40,6 +40,34 @@ router.post('/create-role',
     }
 });
 
+
+/**
+ * 
+ * 
+ */
+router.get("/:id", async (req, res, next) => {
+    try{
+        const id = req.params.id;
+        if(!id || id === undefined || id === null){
+            throw new Error("No id present")
+        } else {
+            const getRole = await RolesModel.findOne({_id: id});
+            return res.json({
+                success:true,
+                error:false,
+                data: getRole
+            })
+        }
+    } catch (e) {
+        console.log(e);
+        return res.status(400).json({
+            success:false,
+            error:true,
+            errors: [{msg: "Internal server error"}]
+        });
+    }
+});
+
 /* GET ALL ROLES */
 router.get("/", async (req, res, next) => {
     try{
