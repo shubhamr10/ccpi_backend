@@ -32,6 +32,7 @@ router.post("/",
     errorValidator,
     async (req, res, next) => {
     try{
+        const user = req.user;
         if(user.role === "63384059a63661c2fe1c478f" || user.role === "63384050a63661c2fe1c4784"){
             const { name, code, credits, programme, semester } = req.body;
             const newSubject = new subjectModel({

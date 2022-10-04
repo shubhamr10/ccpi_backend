@@ -36,10 +36,18 @@ router.post("/",
     check("total_semester","Total semester in programme is required!").not().isEmpty(), errorValidator, authValidator,
     async(req, res, next) => {
     try{
+        const user = req.user;
         if(user.role === "63384059a63661c2fe1c478f" || user.role === "63384050a63661c2fe1c4784"){
             const { name, code, total_semester } = req.body;
+            const doesProgrammeExists = await programmeModel.findOne({ code :code  });
+            if(doesProgrammeExists) return res.status(400).json({
+                success:false,
+                error:true,
+                errors: [{msg: "Programme already exists"}]
+            });
+            console.log(name, code, total_semester)
             const newProgramme = new programmeModel({
-                name, code, total_semester
+                name, code, total_semesters:parseInt(total_semester)
             });
             await newProgramme.save();
             return res.json({

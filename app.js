@@ -11,6 +11,10 @@ const centreRouter = require("./routes/centres");
 const programmeRouter = require("./routes/programme");
 const subjectRouter = require("./routes/subjects");
 const informationRouter = require("./routes/information");
+const namespaceRouter = require("./routes/namespace");
+const roomRouter = require("./routes/room");
+const messageRouter = require("./routes/message");
+const profileRouter = require("./routes/profile");
 
 
 const app = express();
@@ -35,5 +39,9 @@ app.use("/api/centres", centreRouter);
 app.use("/api/programmes", programmeRouter);
 app.use("/api/subjects", subjectRouter);
 app.use("/api/info", informationRouter);
+app.use("/api/namespace", namespaceRouter);
+app.use("/api/rooms", roomRouter);
+app.use("/api/messages", messageRouter);
+app.use("/api/profile", profileRouter);
 
 module.exports = app;

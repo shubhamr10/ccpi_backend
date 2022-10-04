@@ -1,30 +1,23 @@
 const mongoose = require("mongoose");
 
-const profileSchema = new mongoose.Schema({
-    user:{
+const roomSchema = new mongoose.Schema({
+    name:{
+        type:String,
+        required:true
+    },
+    type:{
         type:String,
         required:true,
-        ref:'user'
     },
-    programme:{
+    nameSpace:{
         type:String,
-        ref:'programme'
+        ref:'namespace',
+        required:true
     },
-    regionalCentre:{
-        type:String,
-        ref:'centre'
+    isMessageAllowed:{
+        type:Boolean,
+        default:true
     },
-    studyCentre:{
-        type:String,
-        ref:'centre'
-    },
-    currentSemester:{
-        type:Number,
-    },
-    subjects:[{
-        type:String,
-        ref:'subject'
-    }],
     archived:{
         type:Boolean,
         required:true,
@@ -45,4 +38,4 @@ const profileSchema = new mongoose.Schema({
     }
 });
 
-module.exports = Profile = mongoose.model('profile', profileSchema)
+module.exports = Room = mongoose.model("room", roomSchema);

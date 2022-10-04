@@ -1,10 +1,45 @@
 POST http://localhost:3000/api/programmes
 Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
 
 {
-  "name": "",
-  "code": "",
-  "total_semester": ""
+  "name": "Bachelor of Arts",
+  "code": "BAG",
+  "total_semester": "6"
 }
 
 ###
+
+POST http://localhost:3000/api/programmes
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "Bachelor of Business Administration",
+  "code": "BBA",
+  "total_semester": "6"
+}
+
+###
+
+POST http://localhost:3000/api/programmes
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "Bachelor of Commerce",
+  "code": "BCOM",
+  "total_semester": "6"
+}
+
+###
+
+POST http://localhost:3000/api/programmes
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "Bachelor of Computer Application",
+  "code": "BCA",
+  "total_semester": "6"
+}

@@ -1,0 +1,206 @@
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Environmental Studies",
+  "code": "DCC-1A",
+  "credits": "22",
+  "programme": "6339bb5da9ec471b60e45158",
+  "semester" : 1
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Environmental Studies",
+  "code": "DCC-2A",
+  "credits": "22",
+  "programme": "6339bb5da9ec471b60e45158",
+  "semester" : 1
+}
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "English/Hindi Communication",
+  "code": "DCC-1B",
+  "credits": "22",
+  "programme": "6339bb5da9ec471b60e45158",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "English/Hindi Communication",
+  "code": "DCC-2B",
+  "credits": "22",
+  "programme": "6339bb5da9ec471b60e45158",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "English/Hindi Communication",
+  "code": "DCC-1C",
+  "credits": "22",
+  "programme": "6339bb5da9ec471b60e45158",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "English/Hindi Communication",
+  "code": "DCC-2C",
+  "credits": "22",
+  "programme": "6339bb5da9ec471b60e45158",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Computer Application in Business",
+  "code": "BCOS-183",
+  "credits": "4",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 1
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Financial Accounting",
+  "code": "BCOC-131",
+  "credits": "6",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 1
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Business Organisation and Management",
+  "code": "BCOC-132",
+  "credits": "6",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 1
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Principles of Marketing",
+  "code": "BCOE-141",
+  "credits": "6",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 1
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "E-Commerce",
+  "code": "BCOS-184",
+  "credits": "4",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Business Communication",
+  "code": "BCOLA-138",
+  "credits": "6",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Business Mathematics and Statistics",
+  "code": "BCOC-134",
+  "credits": "6",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 2
+}
+
+###
+
+POST http://localhost:3000/api/subjects
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+
+{
+  "name": "Income tax law and practise",
+  "code": "BCOC-136",
+  "credits": "6",
+  "programme": "6339bb6ca9ec471b60e4515c",
+  "semester" : 2
+}
