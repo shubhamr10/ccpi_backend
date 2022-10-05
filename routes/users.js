@@ -4,6 +4,7 @@ const { check, validationResult } = require("express-validator");
 const bcrypt = require("bcryptjs");
 const userModel = require("../models/User.model");
 const errorValidator = require("../middleware/checkError.middleware");
+const authValidator = require("../middleware/auth.middleware");
 
 /* GET users listing. */
 router.post('/create-user',
@@ -31,11 +32,14 @@ router.post('/create-user',
         const _salt = await bcrypt.genSalt(10);
         newUser.password = await bcrypt.hash(password, _salt);
 
-        await newUser.save();
+        let user = await newUser.save();
         return res.json({
           success:true,
           error:false,
-          data: "User created successfully"
+          data: {
+            data:user,
+            msg:"User created successfully"
+          }
         })
       } catch (e) {
         console.log(e);
@@ -46,5 +50,30 @@ router.post('/create-user',
         });
       }
 });
+
+router.post("/get-user", authValidator,
+    check("role","role is required!").not().isEmpty(),
+    errorValidator,
+    async ( req, res, next) => {
+    try{
+      const { role } = req.body;
+      const allUsers = await userModel.find({role:role}).populate('');
+      return res.json({
+        success:true,
+        error:false,
+        data: {
+          list:allUsers,
+          total:allUsers.length
+        }
+      })
+    } catch (err){
+      console.log(e);
+      return res.status(400).json({
+        success:false,
+        error:true,
+        errors: [{msg: "Internal server error"}]
+      });
+    }
+})
 
 module.exports = router;

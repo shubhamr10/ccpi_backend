@@ -35,7 +35,7 @@ router.post("/", authValidator,
     async (req, res, next) => {
     try{
         const user = req.user;
-        const { heading, content, attachment, type, flow, programme, studyCentre, regionalCentre, uploadedBy } = req.body;
+        const { heading, content, attachment, type, flow, programme, studyCentre, regionalCentre } = req.body;
         const newInformation = new informationModel({
             heading, content, attachment, type, flow, programme, studyCentre, regionalCentre, uploadedBy:user.id
         })
