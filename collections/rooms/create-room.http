@@ -1,0 +1,205 @@
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "",
+  "type": "",
+  "nameSpace": ""
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS031",
+  "type": "message",
+  "nameSpace": "633dad00a4bc1ef97f3665c8"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS032",
+  "type": "message",
+  "nameSpace": "633dad00a4bc1ef97f3665c8"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS033",
+  "type": "message",
+  "nameSpace": "633dad00a4bc1ef97f3665c8"
+}
+
+###
+
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS034",
+  "type": "message",
+  "nameSpace": "633dad00a4bc1ef97f3665c8"
+}
+
+###
+
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS035",
+  "type": "message",
+  "nameSpace": "633dad00a4bc1ef97f3665c8"
+}
+
+###
+
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCSL036",
+  "type": "message",
+  "nameSpace": "633dad00a4bc1ef97f3665c8"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS041",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665ca"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS042",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665ca"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS043",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665ca"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS044",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665ca"
+}
+
+###
+
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCSL045",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665ca"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS051",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665cc"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCS053",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665cc"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCSL054",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665cc"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCSE003",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665cc"
+}
+
+###
+
+POST http://localhost:3001/api/rooms/create
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjMzODQ4MjM1NTk1Y2U5MjI4M2FhMjI5Iiwicm9sZSI6IjYzMzg0MDU5YTYzNjYxYzJmZTFjNDc4ZiJ9LCJpYXQiOjE2NjQ2NDI1NzksImV4cCI6MTY2ODI0MjU3OX0.FbuycCzNWxo-NLQ__fK9_h1D8aCfRJP3tiVD-B9g2xo
+
+{
+  "name": "MCSP060",
+  "type": "message",
+  "nameSpace": "633dad01a4bc1ef97f3665ce"
+}

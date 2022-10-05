@@ -6,9 +6,12 @@ const {check} = require("express-validator");
 const roomModel = require("../models/Room.model");
 
 /* GET home page. */
-router.get('/', authValidator, async(req, res, next) => {
+router.post('/', authValidator,
+    check("nameSpace","namespaceId is required").not().isEmpty(),
+    async(req, res, next) => {
     try{
-        const roomsList = await roomModel.find();
+        const { nameSpace } = req.body;
+        const roomsList = await roomModel.find({nameSpace:nameSpace});
         return res.json({
             success:true,
             error:false,
@@ -33,13 +36,13 @@ router.get('/', authValidator, async(req, res, next) => {
 router.post("/create", authValidator,
     check("name","room name is required!").not().isEmpty(),
     check("type", "room type is required").not().isEmpty(),
-    check("namespace","namespace id is required!").not().isEmpty(),
+    check("nameSpace","namespace id is required!").not().isEmpty(),
     errorValidator,
     async(req, res, next) => {
     try{
-        const { name, type, namespace, isMessageAllowed } = req.body;
+        const { name, type, nameSpace, isMessageAllowed } = req.body;
         const newRoom = new roomModel({
-            name, type, namespace, isMessageAllowed
+            name, type, nameSpace, isMessageAllowed
         });
         await newRoom.save();
         return res.json({

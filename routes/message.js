@@ -6,8 +6,19 @@ const errorValidator = require("../middleware/checkError.middleware");
 const {check} = require("express-validator");
 
 /* GET home page. */
-router.get('/', function(req, res, next) {
-    res.render('index', { title: 'Express' });
+router.post('/get-messages', authValidator,
+    check("room","Room is required!").not().isEmpty(), errorValidator
+    ,async (req, res, next) => {
+        const { room } = req.body;
+        const messageList = await messageModel.find({ room: room });
+        return res.json({
+            success:true,
+            error:false,
+            data:{
+                list:messageList,
+                total:messageList.length
+            }
+        })
 });
 
 /*
