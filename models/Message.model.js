@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const {Schema} = require("mongoose");
 
 const messageSchema = new mongoose.Schema({
     message:{
@@ -8,6 +9,11 @@ const messageSchema = new mongoose.Schema({
     room:{
         type:String,
         ref:'room',
+        required:true
+    },
+    user:{
+        type:Schema.Types.ObjectId,
+        ref:'user',
         required:true
     },
     date_created: {

@@ -10,7 +10,7 @@ router.post('/get-messages', authValidator,
     check("room","Room is required!").not().isEmpty(), errorValidator
     ,async (req, res, next) => {
         const { room } = req.body;
-        const messageList = await messageModel.find({ room: room });
+        const messageList = await messageModel.find({ room: room }).populate('user', '_id name email').sort({ date_created:-1 });
         return res.json({
             success:true,
             error:false,
@@ -31,9 +31,10 @@ router.post("/add-message", authValidator,
     errorValidator,
     async (req, res, next) => {
     try{
+        const { id } = req.user;
         const { message, room } = req.body;
         const newMessage = new messageModel({
-            message, room
+            message, room, user:id
         });
         await newMessage.save();
         return res.json({
