@@ -10,7 +10,7 @@ router.post('/get-messages', authValidator,
     check("room","Room is required!").not().isEmpty(), errorValidator
     ,async (req, res, next) => {
         const { room } = req.body;
-        const messageList = await messageModel.find({ room: room }).populate('user', '_id name email').sort({ date_created:-1 });
+        const messageList = await messageModel.find({ room: room }).populate('user', '_id name email').sort({ date_created:1 });
         return res.json({
             success:true,
             error:false,
